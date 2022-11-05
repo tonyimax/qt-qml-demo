@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>arrow.png</file>
+        <file>PageNavigation.qml</file>
+    </qresource>
+</RCC>
