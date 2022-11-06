@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>WinExtras.rc</file>
+        <file>qt.ico</file>
+    </qresource>
+</RCC>
